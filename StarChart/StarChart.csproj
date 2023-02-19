@@ -13,6 +13,8 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+	
+    <Folder Include="StarChart\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
